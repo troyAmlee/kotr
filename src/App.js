@@ -10,7 +10,7 @@ function App() {
         </div>
       </a>
       <Landing/>
-      <div className = "footer">Knights Gaming Copyright 2020 - Site Created By <a href = "https://www.facebook.com/TroitalityGaming/" style = {{color: "red"}}> Troitality Gaming</a></div>
+      <div className = "footer">Knights Gaming Copyright 2020 - Site Created By:  <a href = "https://www.facebook.com/TroitalityGaming/" style = {{color: "red"}}> Troitality Gaming</a></div>
     </div>
   );
 }
