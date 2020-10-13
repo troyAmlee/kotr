@@ -27,6 +27,10 @@ class Landing extends Component {
             <div className = "allknights">
                 <Knight 
                 className = "knightslanding"
+                source = {this.state.secondtear}
+                />
+                <Knight 
+                className = "knightslanding"
                 source = {this.state.troitality}
                 />
                 <Knight 
