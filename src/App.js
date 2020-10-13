@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <a href = "https://www.facebook.com/groups/623450688282338">
+      <a className="banner" href = "https://www.facebook.com/groups/623450688282338">
         <div className="banner">
         </div>
       </a>
