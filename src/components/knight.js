@@ -12,7 +12,7 @@ export default class Knight extends Component {
   render() {
     return (
         <div className = "knightslanding">
-            <iframe src={this.props.source} width="340" height="500" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+            <iframe sandbox src={this.props.source} width="340" height="500" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
         </div>
     );
   }
